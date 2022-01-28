@@ -24,6 +24,8 @@ TARGET_SUPPORTS_GOOGLE_RECORDER := false
 TARGET_INCLUDE_STOCK_ARCORE := false
 TARGET_INCLUDE_LIVE_WALLPAPERS := false
 TARGET_SUPPORTS_QUICK_TAP := true
+RAVEN_MAINTAINER := TechnoStart
+
 
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := aosp_onclite
